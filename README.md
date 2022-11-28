@@ -23,7 +23,7 @@
 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nextjs&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
