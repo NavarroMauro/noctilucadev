@@ -1,14 +1,14 @@
 ### Hi, you curious guy 👋
 
-#### I'm a rare mix between marine biologist and programmer guy working from Hamburg, Germany.
+#### I'm a rare hybrid between a marine biologist 🐬 and a programmer 💻 working from Hamburg 🍔... nope, that is a Hamburger, I mean Hamburg in Germany 🇩🇪 .
 
-##### What I am doing?
+#### What I am doing?
 
 - 👶 Currently making a new personal project! (soon it will be here!);
 - 🇨🇱 Developing some projects;
 - 🌊 and always looking for time to go to the ocean!
 
-##### BIO
+#### BIO
 
 - 👀 I'm currently looking for a new position **Hamburg I'm here!** 📢
 - 🌱 I love all about **Open Source**
@@ -17,9 +17,7 @@
 - 🐟 Fun fact: Love fishing 🎣
 
 
-
-
-## Things I use on a daily basis
+#### Things I use on a daily basis
 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
