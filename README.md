@@ -1,10 +1,10 @@
 ### Hi, you curious guy 👋
 
-#### I'm a rare hybrid between a marine biologist 🐬 and a programmer 💻 working from Hamburg 🍔... nope, that is a Hamburger, I mean Hamburg in Germany 🇩🇪 .
+#### I'm a rare hybrid between a marine biologist 🐬 and programmer 💻 working from Hamburg 🍔... Nope, that's a hamburger, I mean Hamburg in Germany. 🇩🇪 .
 
 #### What I am doing?
 
-- 👶 Currently making a new personal project! (soon it will be here!);
+- 👶 Meanwhile I'm making a new personal project! (soon it will be here!);
 - 🇨🇱 Developing some projects;
 - 🌊 and always looking for time to go to the ocean!
 
@@ -22,6 +22,9 @@
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2d79c7">
