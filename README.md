@@ -1,4 +1,4 @@
-### Hi, you curious guy 👋
+### Hallo zusammen, 👋
 
 #### I'm a rare hybrid between a marine biologist 🐬 and programmer 💻 working from Hamburg 🍔... Nope, that's a hamburger, I mean Hamburg in Germany. 🇩🇪 .
 
@@ -7,12 +7,12 @@
 - 👶 Meanwhile I'm making a new personal project! (soon it will be here!);
 - 🇨🇱 Developing some projects;
 - 🌊 and always looking for time to go to the ocean!
-
+- 
 #### BIO
-
+- 👅 I speak Spanish 🇨🇱, English 🇳🇿 amd German 🇩🇪. 
 - 👀 I'm currently looking for a new position **Hamburg I'm here!** 📢
 - 🌱 I love all about **Open Source**
-- 💬 Ping me about **Python**, **React**, **development**, **design thinking**, **Machine Learning**
+- 💬 Ping me about **Python**, **Docker deployment**, **React**, **development**, **design thinking**, **Machine Learning**
 - 📫 Reach me: [twitter.com/noctilucadev](https://twitter.com/noctilucadev)
 - 🐟 Fun fact: Love fishing 🎣
 
