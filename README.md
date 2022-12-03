@@ -9,7 +9,7 @@
 - 🌊 and always looking for time to go to the ocean!
 - 
 #### BIO
-- 👅 I speak Spanish 🇨🇱, English 🇳🇿 amd German 🇩🇪. 
+- 👅 I speak Spanish 🇨🇱, English 🇳🇿 and German 🇩🇪. 
 - 👀 I'm currently looking for a new position **Hamburg I'm here!** 📢
 - 🌱 I love all about **Open Source**
 - 💬 Ping me about **Python**, **Docker deployment**, **React**, **development**, **design thinking**, **Machine Learning**
