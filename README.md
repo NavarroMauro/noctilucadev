@@ -13,7 +13,6 @@
 - 👀 I'm currently looking for a new position **Hamburg I'm here!** 📢
 - 🌱 I love all about **Open Source**
 - 💬 Ping me about **Python**, **Docker deployment**, **React**, **development**, **design thinking**, **Machine Learning**
-- 📫 Reach me: [twitter.com/noctilucadev](https://twitter.com/noctilucadev)
 - 🐟 Fun fact: Love fishing 🎣
 
 
