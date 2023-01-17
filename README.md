@@ -1,10 +1,6 @@
-### Hallo zusammen, 👋
-
-#### I'm a rare hybrid between a marine biologist 🐬 and programmer 💻 working from Hamburg 🍔... Nope, that's a hamburger, I mean Hamburg in Germany. 🇩🇪 .
-
 #### What I am doing?
 
-- 👶 Meanwhile I'm making a new personal project! (soon it will be here!);
+- 👶 Meanwhile I'm working in some old project ideas. Yeap, programming!
 - 🇨🇱 Developing some projects;
 - 🌊 and always looking for time to go to the ocean!
 - 
